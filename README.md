@@ -21,6 +21,8 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 1.Daily Trend for Total Orders:
 Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/2d8a9e99-6a11-443d-89ee-c11e3293ddaf)
+
 
 2.Monthly Trend for Total Orders:
 Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow
