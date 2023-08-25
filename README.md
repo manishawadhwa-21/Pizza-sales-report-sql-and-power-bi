@@ -21,6 +21,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 1.Daily Trend for Total Orders:
 Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
+
 ![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/2d8a9e99-6a11-443d-89ee-c11e3293ddaf)
 
 
@@ -28,17 +29,31 @@ Create a bar chart that displays the daily trend of total orders over a specific
 Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow
 us to identify peak hours or periods of high order activity.
 
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/b5e6a85a-fe59-4ece-9875-b90f52045189)
+
 3.Percentage of Sales by Pizza Category:
 Create a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
+
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/dd807b59-f11c-4fb8-acea-31cb3a92b687)
 
 4.Percentage of Sales by Pizza Size:
 Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on sales. 
 
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/e9944842-3c03-4f3d-9210-35431b9669d9)
+
 5.Total Pizzas Sold by Pizza Category:
 Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories. 
+
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/538bb8e3-caa1-4dc1-b7c1-1ff4697c180f)
+
 
 6.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
 Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will help us identify the most popular pizza options.
 
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/76fcf713-9fe8-44d9-84fe-38af305691ae)
+
+
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders 
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
+
+![image](https://github.com/manishawadhwa-21/Pizza-sales-report-sql-and-power-bi/assets/110163350/e122b3b7-ffc2-4a3f-a199-51d10e9591cd)
